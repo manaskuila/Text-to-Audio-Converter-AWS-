@@ -1,0 +1,3 @@
+DB_TABLE_NAME ==> Need to provide the table name
+SNS_TOPIC  ==> simple notification service topic name 
+BUCKET_NAME==>Amazon S3 bucket name needs to provide
